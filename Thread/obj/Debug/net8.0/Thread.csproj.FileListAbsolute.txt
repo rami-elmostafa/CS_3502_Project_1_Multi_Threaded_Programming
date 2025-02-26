@@ -1,0 +1,15 @@
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\bin\Debug\net8.0\Thread.exe
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\bin\Debug\net8.0\Thread.deps.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\bin\Debug\net8.0\Thread.runtimeconfig.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\bin\Debug\net8.0\Thread.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\bin\Debug\net8.0\Thread.pdb
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.AssemblyInfoInputs.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.AssemblyInfo.cs
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.sourcelink.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\refint\Thread.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.pdb
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\Thread.genruntimeconfig.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\Thread\obj\Debug\net8.0\ref\Thread.dll

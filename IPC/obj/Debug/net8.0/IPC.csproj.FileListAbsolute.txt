@@ -1,0 +1,15 @@
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.AssemblyInfoInputs.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.AssemblyInfo.cs
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.csproj.CoreCompileInputs.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.sourcelink.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\bin\Debug\net8.0\IPC.exe
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\bin\Debug\net8.0\IPC.deps.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\bin\Debug\net8.0\IPC.runtimeconfig.json
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\bin\Debug\net8.0\IPC.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\bin\Debug\net8.0\IPC.pdb
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\refint\IPC.dll
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.pdb
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\IPC.genruntimeconfig.cache
+C:\Users\ramie\Desktop\swe3643-fall2024-calculator-project\swe3643-fall2024-project\Bank\IPC\obj\Debug\net8.0\ref\IPC.dll
