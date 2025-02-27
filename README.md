@@ -157,7 +157,4 @@ Reference: Chris Regan, Kennesaw State University, Operating Systems Project 1 R
      ```
 
 
-
-## Final Video Presentation
-
-[Project Presentation on Youtube](https://youtu.be/T_Ve5JAHcIY) 
+ 
