@@ -53,8 +53,39 @@ To prepare your environment to execute this application:
     6. From your command line or terminal, type `git --version`. Assuming `git` is properly installed, you will see something like the following: (macOS terminal example)[![image-20240822072904716](https://github.com/jeff-adkisson/swe-3643-fall-2024/raw/main/homework/homework-1-assets/image-20240822072904716.png)](https://github.com/jeff-adkisson/swe-3643-fall-2024/blob/main/homework/homework-1-assets/image-20240822072904716.png) 
 
 #### To Set Up Linux Environment: 
+To complete this project, you will need to set up a Linux-based development environment. The setup process will depend on your current operating system and hardware capabilities. Below are the recommended options:
 
-![](C:\Users\ramie\Pictures\Screenshots\Screenshot 2025-02-26 194514.png)
+Virtualization Options
+If your hardware supports virtualization, you can choose one of the following methods to run a Linux environment:
+
+Hyper-V (Windows): A built-in virtualization tool available on Windows Pro or Education editions. Enable it through Turn Windows features on or off.
+
+VirtualBox (Cross-platform): A free and open-source virtualization tool that works on Windows, macOS, and Linux.
+
+VMware Workstation Player (Cross-platform): A robust option for virtualization, free for non-commercial use.
+
+Windows Subsystem for Linux (WSL)
+If you are using Windows 10 or later, you can use WSL to run a Linux environment without a virtual machine. Follow these steps:
+
+Enable WSL by running the command: wsl --install.
+
+Install a Linux distribution, such as Ubuntu, from the Microsoft Store.
+
+For macOS Users
+For those using ARM-based Macs (e.g., Apple Silicon), consider:
+
+UTM: A virtualization tool optimized for ARM-based Macs.
+
+Parallels Desktop: A commercial virtualization tool that supports Linux on macOS.
+
+Choosing a Linux Distribution
+If this is your first time working with Linux, I recommend using Ubuntu, as it is beginner-friendly and well-documented. However, if you are already familiar with Linux, I encourage you to explore another distribution, such as:
+
+Fedora: Known for its cutting-edge features and strong community support.
+
+Debian: A stable and reliable distribution popular for development.
+
+Arch Linux: For advanced users looking for complete customization and control.
 
 Reference: Chris Regan, Kennesaw State University, Operating Systems Project 1 Requirments.
 
