@@ -1,5 +1,4 @@
-# CS_3502_Project_1_Multi_Threaded_Programming (6).pdf
-# Multi-Threaded Programming and IPC
+# CS_3502_Project_1_Multi_Threaded_Programming 
 
 ## Author
 **Rami Elmostafa**  
