@@ -14,8 +14,3 @@ This project was created in an Operating Systems course to provide real-world sc
 - Demonstrate IPC through pipe (`|`) implementation to showcase data communication.
 - Utilize a Linux-based development environment, a LaTeX-based report, and a demonstration video.
 
-
-**Example Code:**
-```csharp
-mutex1.WaitOne(); // Acquire Mutex 1
-Console.WriteLine($"Thread {id}: Acquired Mutex 1.");
